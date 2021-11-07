@@ -1,0 +1,20 @@
+{
+  "name": "Reiner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "request": "2.81.0",
+    "express": "^4.16.3",
+    "https": "^1.0.0",
+    "foreach-timeout": "2.0.2",
+    "map": "^1.0.1",
+    "embed-creator": "^1.2.4"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
